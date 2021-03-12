@@ -1,6 +1,6 @@
-### PHP is Gross 👋
+# PHP is Gross 👋
 
-#### ONTACT
+#### CONTACT:
 
  My Discord: @Rydersel (高瑞德)#0001
 

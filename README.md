@@ -1,8 +1,10 @@
-### Hi there 👋
+### PHP is Gross 👋
 
+###CONTACT
 
-### My Discord: @Rydersel (高瑞德)#0001
+# My Discord: @Rydersel (高瑞德)#0001
 
+# Company Email: contact@plagueware.xyz
 
 ### My Stats:
 

@@ -10,6 +10,8 @@
 
 C++, C#, Python, Java sorta
 
+What I'm learning: Objective C
+
 I did a khan academy class once when I was 10. So why wont Google hire me? ☹️☹️☹️
 
 ### My Stats:

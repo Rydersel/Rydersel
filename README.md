@@ -4,7 +4,7 @@
 
  My Discord: Rydersel (高瑞德)#0001
 
- Company Email: contact@plagueware.xyz
+ Email: ryder@rydersel.com
 
 ### 🚀My Qualificationa:
 

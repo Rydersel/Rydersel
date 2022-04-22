@@ -4,7 +4,8 @@
 
  My Discord: Rydersel(高瑞德)#0001
 
- Email: ryder@rydersel.com
+ Email: <s>ryder@rydersel.com</s>
+        rydersel@protonmail.com
 
 ### 🚀My Qualificationa:
 

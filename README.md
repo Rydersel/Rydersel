@@ -11,7 +11,7 @@
 
 C++, C#, Python, Java sorta
 
-What I'm learning: Objective C
+What I'm learning: Objective C, CS 5910
 
 I did a khan academy class once when I was 10. So why wont Google hire me? ☹️☹️☹️
 

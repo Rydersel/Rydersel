@@ -9,9 +9,9 @@
 
 ### 🚀My Qualificationa:
 
-C++, C#, Python, Java sorta
+C++, C#, Python
 
-What I'm learning: Objective C, CS 5910
+What I'm learning: Java, CS 5910, CS-172-01
 
 I did a khan academy class once when I was 10. So why wont Google hire me? ☹️☹️☹️
 

@@ -11,7 +11,7 @@
 
 C++, C#, Python
 
-What I'm learning: Java, CS 5910, CS-172-01
+What I'm learning: Java(CS-172-01), CS 5910 
 
 
 ### My Stats:

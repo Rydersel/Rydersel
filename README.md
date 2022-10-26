@@ -9,9 +9,9 @@
 
 ### 🚀My Qualificationa:
 
-C++, C#, Python
+C++, C#, Python, Java
 
-What I'm learning: Java(CS-172-01), CS 5910 
+What I'm learning: Java(CS-172), CS 5910 
 
 
 ### My Stats:

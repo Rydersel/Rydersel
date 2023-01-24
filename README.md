@@ -11,7 +11,7 @@
 
 C++, C#, Python, Java
 
-What I'm learning: Java(CS-172), CS 5910 
+What I'm learning: CS 293, CS 111
 
 
 ### My Stats:

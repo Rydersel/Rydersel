@@ -2,7 +2,7 @@
 
 #### 📫 CONTACT:
 
- My Discord: Rydersel(高瑞德)#0001
+ My Discord: Rydersel(高瑞德)#1012
 
  Email: <s>ryder@rydersel.com</s>
         rydersel@protonmail.com

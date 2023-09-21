@@ -2,10 +2,9 @@
 
 #### 📫 CONTACT:
 
- My Discord: Rydersel(高瑞德)#1012
+ Email: rydersel@protonmail.com
 
- Email: <s>ryder@rydersel.com</s>
-        rydersel@protonmail.com
+ Discord: rydersel
 
 ### 🚀My Qualificationa:
 

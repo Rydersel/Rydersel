@@ -4,8 +4,6 @@
 
  Email: rydersel@protonmail.com
 
- Discord: rydersel
-
 ### 🚀My Qualificationa:
 
 C++, C#, Python, Java

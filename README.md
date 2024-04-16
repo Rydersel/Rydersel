@@ -8,7 +8,7 @@
 
 C++, C#, Python, Java
 
-What I'm learning: CS 383, CS 211
+
 
 
 ### My Stats:

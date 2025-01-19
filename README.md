@@ -4,12 +4,6 @@
 
  Email: rydersel@protonmail.com
 
-### 🚀My Qualificationa:
-
-C++, C#, Python, Java
-
-
-
 
 ### My Stats:
 

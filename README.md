@@ -2,8 +2,7 @@
 
 #### 📫 CONTACT:
 
- Email: rydersel@protonmail.com
-
+ Email: ryderselikow@lclark.edu
 
 ### My Stats:
 
